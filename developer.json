@@ -1,6 +1,6 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
+    "name": "Zulfan_Joula",
+    "logo_name": "Zulfan-joula",
     "role": "Front-end developer",
     "about": {
         "sections": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Over the past 5 years, I have been building my skills and experience by working on various projects and continuously learning new technologies. I enjoy turning ideas into real, usable products and focusing on writing clean, efficient, and maintainable code. I’m motivated by challenges and always looking for ways to improve both technically and creatively. <br><br> Throughout this journey, I have collaborated with different people, explored multiple tools and frameworks, and gained a deeper understanding of how to solve problems effectively. I value consistency, attention to detail, and growth, and I am always open to new opportunities that allow me to learn, contribute, and create meaningful work."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>As a front-end developer, I focus on creating responsive, user-friendly, and visually engaging interfaces. I enjoy transforming designs into functional web experiences using modern technologies, while ensuring performance, accessibility, and clean code. I am passionate about delivering interfaces that not only look good but also provide a smooth and intuitive user experience. <br><br> In my work, I continuously explore new tools and frameworks to improve my skills and stay up to date with industry trends. I value collaboration, attention to detail, and problem-solving, and I strive to build products that are reliable, scalable, and enjoyable for users across different devices."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I bring more than five years of experience in building modern and responsive web interfaces, with a strong focus on usability, performance, and clean design. I am dedicated to delivering high-quality front-end solutions that align with both user needs and business goals. <br><br> Through continuous learning and hands-on projects, I have developed strong problem-solving skills and the ability to adapt to new technologies quickly. I enjoy collaborating with teams, refining details, and turning complex requirements into simple, effective user experiences."
                     }
                 }
             },
@@ -28,18 +28,18 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> I have 5 years of experience in web development, working on building responsive, scalable, and user-focused web applications. I specialize in translating ideas and designs into functional interfaces while maintaining clean, maintainable code and good performance practices. <br><br> I take pride in my ability to solve problems effectively, adapt to new technologies, and collaborate with others to deliver reliable and polished digital products. I am always eager to learn, improve my skills, and contribute to meaningful project."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am constantly learning and improving my skills to keep up with the ever-evolving world of web development. I enjoy exploring new technologies, refining my workflow, and applying best practices to create efficient, maintainable, and user-friendly web applications. I am motivated by challenges and always strive to deliver high-quality results in every project I work on."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>I have always been passionate about building meaningful digital experiences and turning ideas into well-crafted web solutions. I enjoy working on interfaces that balance aesthetics, usability, and performance, and I take pride in creating products that feel intuitive and reliable for users. <br><br> Over time, this passion has driven me to continuously improve my skills, explore new technologies, and refine my approach to problem-solving. I value learning, consistency, and attention to detail, and I am motivated to grow as a developer while contributing to impactful and high-quality projects.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "bachelor of IT": "I have been in 'Las viñas'...",
+                            "UMSU": "The university..."
                         }
                     }
                 }
@@ -50,11 +50,11 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am an avid sports enthusiast and enjoy staying active as part of a balanced lifestyle. Sports help me build discipline, teamwork, and resilience, which positively influence the way I approach both personal and professional challenges. <br> Through regular physical activity, I have learned the importance of consistency, focus, and maintaining a healthy mindset, values that I also bring into my work and daily routines."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br>I am a passionate gamer with a deep appreciation for strategy, problem-solving, and immersive experiences. Gaming has taught me patience, quick thinking, and how to adapt to changing situations—skills that I carry into my work as a front-end developer. <br><br> Beyond the enjoyment, gaming inspires creativity and motivates me to explore new technologies and approaches, helping me craft better digital experiences and stay engaged with challenges in both professional and personal projects."
                     }
                 }
             }
@@ -64,50 +64,40 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "zulfanjoula5@gmail.com",
+                "phone": "+6285731161120"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
-                "url": "https://github.com/",
-                "user": "username"
+                "url": "https://github.com/zulfanjoula",
+                "user": "zulfanjoula"
             },
             "facebook": {
                 "title": "Facebook profile",
                 "url": "https://facebook.com/",
-                "user": "username"
+                "user": "zulfanjoula"
             },
             "twitter": {
                 "title": "Twitter account",
                 "url": "https://twitter.com/",
-                "user": "username"
+                "user": "joula's"
             }
         },
         "find_me_also_in": {
             "title": "find-me-also-in",
             "sources": {
-                "youtube": {
-                    "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
-                },
-                "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
+                "linkedin": {
+                    "title": "linkedin profile",
+                    "url": "https://www.linkedin.com/in/zulfan-joula-62b16a386/",
                     "user": "username"
                 },
                 "instagram": {
                     "title": "Instagram account",
-                    "url": "https://instagram.com/",
-                    "user": "username"
+                    "url": "https://instagram.com/zulfan",
+                    "user": "zulfanjoula"
                 },
-                "twitch": {
-                    "title": "Twitch profile",
-                    "url": "https://twitch.com/",
-                    "user": "username"
-                }
             }
         }
     },
@@ -117,32 +107,32 @@
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "react website",
+            "description": "a project for react wesite ",
             "img": "/images/projects/ui-animations2.png",
             "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "url": "https://personal-website-react-jo-hoop-671z.vercel.app/"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "simple portofolio",
+            "description": "a simple portofolio web project.",
             "img": "/images/projects/ai-resources.png",
             "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "url": "https://zulfanjoulaportofolio.vercel.app/"
         },
         "3": {
-            "title": "_worldmap",
+            "title": "_github project",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/worldmap.png",
             "tech": ["Angular"],
-            "url": "https://github.com/"
+            "url": "https://github.com/zulfanjoula"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_bento project",
+            "description": "a bento simple web react.",
             "img": "/images/projects/ui-animations.png",
             "tech": ["React"],
-            "url": "https://github.com/"
+            "url": "https://zulfanbentoproject.vercel.app/"
         },
         "5": {
             "title": "_tetris-game",
@@ -156,7 +146,7 @@
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/ethereum.png",
             "tech": ["Vue"],
-            "url": "https://github.com/"
+            "url": "https://github.com/zulfanjoula"
         }
     }
 }
